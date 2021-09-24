@@ -1,4 +1,4 @@
-/* Program Objective: To generate LRC for given characters
+/* Program Objective: To display the class of the IP Address entered by the user
 Name of the Author: Nidhi Mehta
 Date of First Creation: 17/09/2021
 Date of Last Modification: 17/09/2021 */
