@@ -1,4 +1,4 @@
-/* Program Objective: To generate LRC for given characters
+/* Program Objective: To bit stuff binary data
 Name of the Author: Nidhi Mehta
 Date of First Creation: 17/09/2021
 Date of Last Modification: 17/09/2021 */
