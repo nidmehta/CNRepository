@@ -1,4 +1,4 @@
-/* Program Objective: To generate LRC for given characters
+/* Program Objective: To convert Dotted Decimal Notation IP to Binary Notation IP
 Name of the Author: Nidhi Mehta
 Date of First Creation: 17/09/2021
 Date of Last Modification: 17/09/2021 */
