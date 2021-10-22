@@ -7,3 +7,4 @@ Computer Networks Programs Repository
 6. Identify Class of the given IP Address
 7. Menu based program for programs 4, 5 and 6
 8. Identify the Class, Network Address and Broadcast Address of the given IP address
+9. Suggest class IP address to adopt in order to perform networking using given number of hosts
